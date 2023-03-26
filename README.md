@@ -1,4 +1,4 @@
-##HomeWork ([Colab.google.com](https://colab.research.google.com/drive/1hE282AMVT3IRkhcEwEk1KC247hxf2XuI#scrollTo=cGUv-Qif9QPj))
+## HomeWork ([Colab.google.com](https://colab.research.google.com/drive/1hE282AMVT3IRkhcEwEk1KC247hxf2XuI#scrollTo=cGUv-Qif9QPj))
 # Домашняя работа по регуляризации и оптимизации
 
 Подобрать методом GD параметры функции:
